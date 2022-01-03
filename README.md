@@ -1,6 +1,6 @@
 ### Hi there �
 
-Here are some ideas to get you started:
+I'm Jimrox Odezi.
 
 - 🔭 I’m currently working on fintech api in golang
 - 🌱 I’m currently learning golang, python and javascript
